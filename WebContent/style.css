@@ -1,0 +1,64 @@
+.inputText
+{
+	width: 200px;
+	
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.inputButton
+{
+	font-family: Arial;
+	font-size: 12px;
+}
+
+
+/**
+
+-----------------------------------------------------
+
+**/
+
+<!--
+#tblSample td, th { padding: 0.5em; }
+.classy0 { background-color: #234567; color: #89abcd; }
+.classy1 { background-color: #89abcd; color: #234567; }
+.classy2 { background-color: #ffffff; color: #ffffff; }
+.style1 {
+	color: #333333;
+	font-style: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.style24 {
+	font-size: 12px;
+	color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style51 {	color: #333333;
+	font-weight: bold;
+}
+.style68 {
+	font-size: 9px
+}
+.left-column-header
+{
+    height: 15px;
+    padding-left: 10px;
+    background-repeat: repeat;
+    background-image: url(images/left-column-header-bg.gif);
+    padding-top: 4px;
+    padding-bottom: 6px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #9bbce8;
+}
+.styleDiv{float:left;
+    height:240;
+    width:400;
+    background-color:#333366;
+    border:#3366FF;
+    
+    
+}
+-->
